@@ -1,0 +1,16 @@
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.exe
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.deps.json
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.runtimeconfig.json
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.runtimeconfig.dev.json
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.dll
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\ref\HaveYouHeardOfOurLordAndSaviorRelection.dll
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\bin\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.pdb
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.csprojAssemblyReference.cache
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.AssemblyInfoInputs.cache
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.AssemblyInfo.cs
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.dll
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\ref\HaveYouHeardOfOurLordAndSaviorRelection.dll
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.pdb
+C:\Users\Jordan\Documents\Nmit\Workspace\HaveYouHeardOfOurLordAndSaviorRelection\obj\Debug\net5.0\HaveYouHeardOfOurLordAndSaviorRelection.genruntimeconfig.cache
