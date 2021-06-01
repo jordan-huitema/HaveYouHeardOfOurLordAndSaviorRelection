@@ -38,7 +38,7 @@ namespace HaveYouHeardOfOurLordAndSaviorRelection
                     Console.WriteLine("     Parameters:");
                     foreach (var itemParam in parameterArr)
                     {
-                        Console.WriteLine("   Paremeter  : " + itemParam.Name);
+                        Console.WriteLine("   Parameter  : " + itemParam.Name);
                         Console.WriteLine("     -Type    : " + itemParam.ParameterType);
                         Console.WriteLine("     -Default : " + itemParam.DefaultValue);
                         Console.WriteLine("     -Optional: " + itemParam.IsOptional);
@@ -65,7 +65,7 @@ namespace HaveYouHeardOfOurLordAndSaviorRelection
             return 2;
         }
 
-        protected void Method3(string inputString){}
+        protected void Method3(string inputString, int inputInt, object inputObject){}
 
         //Constructors
 
